@@ -1,0 +1,13 @@
+{
+  "name": "toggle",
+  "repo": "puckey/toggle",
+  "description": "Display or hide an element.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
