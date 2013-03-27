@@ -1,6 +1,6 @@
 # toggle
 
-  Display or hide an element by toggling its .style.display property between 'block' and 'none'.
+  Component: display or hide an element by toggling its .style.display property between 'block' and 'none'.
 
 ## Installation
 
